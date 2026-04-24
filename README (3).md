@@ -1,24 +1,9 @@
 # 🏥 Hospital Readmission Analysis
 
-![Dashboard Preview](dashboard/dashboard_preview.png)
+<img width="1141" height="633" alt="image" src="https://github.com/user-attachments/assets/c40b95b6-644f-4c98-9f2e-ae5678b397f8" />
+
 
 > **An end-to-end data analytics project** that identifies key drivers of 30-day hospital readmissions in diabetic patients, combining Python-based data processing with an interactive Power BI dashboard to support clinical decision-making.
-
----
-
-## 📋 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Business Problem](#-business-problem)
-- [Dataset](#-dataset)
-- [Project Structure](#-project-structure)
-- [Technologies Used](#-technologies-used)
-- [Project Workflow](#-project-workflow)
-- [Key DAX Measures](#-key-dax-measures)
-- [Dashboard Features](#-dashboard-features)
-- [Key Findings](#-key-findings)
-- [Getting Started](#-getting-started)
-- [Results & Impact](#-results--impact)
 
 ---
 
@@ -303,9 +288,6 @@ The raw dataset is available from the [UCI Machine Learning Repository](https://
 
 ---
 
-## 👤 Author
-
-**Vaibhav Jallewar**
 - GitHub: [@vjallewar5858](https://github.com/vjallewar5858)
 
 ---
